@@ -35,6 +35,8 @@ client_scripts {
 }
 
 dependencies {
+	'es_skin',
+	'esx_vehicleshop',
 	'es_extended',
-	'esx_vehicleshop'
+	'esx_society'	
 }
